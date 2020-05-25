@@ -1,0 +1,38 @@
+.banner{
+    background-image: url('img/img11.png');
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box-inner{
+    justify-content: center;
+    padding: 1rem;
+}
+.box-left{
+    padding: 1rem;
+    margin-top: 10rem;
+}
+.box-left p{
+    color: white;
+    text-align: center;
+}
+.box-right{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    margin-top: 70px;
+}
+.box-right button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.box-right .heading{
+    border-bottom: 1px solid white;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 0;
+}
+.box-bottom{
+    justify-content: center;
+}
